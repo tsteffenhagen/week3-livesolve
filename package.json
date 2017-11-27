@@ -1,0 +1,26 @@
+{
+  "name": "week3-livesolve",
+  "version": "1.0.0",
+  "description": "Live solve for elnath weekend three ToDo Full stack application with jQuery, Express, NODE , and SQL(JENS)",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsteffenhagen/week3-livesolve.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsteffenhagen/week3-livesolve/issues"
+  },
+  "homepage": "https://github.com/tsteffenhagen/week3-livesolve#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "pg": "^7.4.0"
+  }
+}
